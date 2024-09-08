@@ -1,0 +1,4 @@
+pip~=23.2.1
+wheel~=0.44.0
+PyQt5~=5.15.10
+mysql-connector-python~=9.0.0
